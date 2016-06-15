@@ -1,6 +1,0 @@
-{
-  "name": "Ruta",
-  "tagline": "",
-  "body": "{ \r\n\"rutas\":\r\n\t[\r\n\t\t { \r\n\t\t \"ruta\":\"duitama-tunja\",\r\n\t\t \"destino\":\"duitama\",\r\n\t\t \"origen\":\"tunja\"\r\n\t\t }, \r\n\t\t { \r\n\t\t \"ruta\":\"duitama-sogamoso\",\r\n\t\t \"destino\":\"duitama\",\r\n\t\t \"origen\":\"sogamoso\"\r\n\t\t },\r\n       \t\t { \r\n       \t\t \"ruta\":\"duitama-socha\",\r\n\t\t \"destino\":\"duitama\",\r\n\t\t \"origen\":\"socha\"\r\n\t\t }, \r\n\t\t {\r\n\t\t \"ruta\":\"duitama-beteitiva\",\r\n\t\t \"destino\":\"duitama\",\r\n\t\t \"origen\":\"beteitiva\"\r\n\t\t },\r\n\t] \r\n} ",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
