@@ -1,0 +1,25 @@
+{ 
+"rutas":
+	[
+		 { 
+		 "ruta":"duitama-tunja",
+		 "destino":"duitama",
+		 "origen":"tunja"
+		 }, 
+		 { 
+		 "ruta":"duitama-sogamoso",
+		 "destino":"duitama",
+		 "origen":"sogamoso"
+		 },
+       		 { 
+       		 "ruta":"duitama-socha",
+		 "destino":"duitama",
+		 "origen":"socha"
+		 }, 
+		 {
+		 "ruta":"duitama-beteitiva",
+		 "destino":"duitama",
+		 "origen":"beteitiva"
+		 },
+	] 
+} 
